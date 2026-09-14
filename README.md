@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KanavN/IEEE-Coding/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/KanavN/IEEE-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/KanavN/IEEE-Coding/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KanavN/IEEE-Coding/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/KanavN/IEEE-Coding/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KanavN/IEEE-Coding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
