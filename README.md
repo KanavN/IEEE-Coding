@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KanavN/IEEE-Coding/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/KanavN/IEEE-Coding/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KanavN/IEEE-Coding/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/KanavN/IEEE-Coding/tree/master/0693-binary-number-with-alternating-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
