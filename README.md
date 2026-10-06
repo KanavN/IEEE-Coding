@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KanavN/IEEE-Coding/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/KanavN/IEEE-Coding/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/KanavN/IEEE-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/KanavN/IEEE-Coding/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KanavN/IEEE-Coding/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KanavN/IEEE-Coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KanavN/IEEE-Coding/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/KanavN/IEEE-Coding/tree/master/0338-counting-bits) |
