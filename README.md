@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/KanavN/IEEE-Coding/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KanavN/IEEE-Coding/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/KanavN/IEEE-Coding/tree/master/0147-insertion-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/KanavN/IEEE-Coding/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
