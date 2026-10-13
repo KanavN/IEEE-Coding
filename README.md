@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KanavN/IEEE-Coding/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KanavN/IEEE-Coding/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/KanavN/IEEE-Coding/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KanavN/IEEE-Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/0328-odd-even-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KanavN/IEEE-Coding/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
