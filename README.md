@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/KanavN/IEEE-Coding/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/KanavN/IEEE-Coding/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/KanavN/IEEE-Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/0206-reverse-linked-list) |
