@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KanavN/IEEE-Coding/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KanavN/IEEE-Coding/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KanavN/IEEE-Coding/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/KanavN/IEEE-Coding/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/KanavN/IEEE-Coding/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KanavN/IEEE-Coding/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/KanavN/IEEE-Coding/tree/master/0507-perfect-number) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KanavN/IEEE-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KanavN/IEEE-Coding/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KanavN/IEEE-Coding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
