@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KanavN/IEEE-Coding/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/KanavN/IEEE-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/KanavN/IEEE-Coding/tree/master/0724-find-pivot-index) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KanavN/IEEE-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Design
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/KanavN/IEEE-Coding/tree/master/0147-insertion-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KanavN/IEEE-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KanavN/IEEE-Coding/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KanavN/IEEE-Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
